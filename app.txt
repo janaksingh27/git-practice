@@ -1,1 +1,7 @@
 Login feature
+<<<<<<< HEAD
+Version 2
+=======
+Payment feature
+>>>>>>> eef0001 (Payment added)
+temporary Work
